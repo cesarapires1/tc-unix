@@ -4,3 +4,4 @@
 2. Arquivos Ocultos *(Hidden files)*: Exibe a lista em formato longo de todos os arquivos incluindo arquivos ocultos
 3. De volta para o Futuro *(Back to the future)*: Script que leva o usuário para o diretório anterior
 4. Listas: Exibe a lista do diretório atual, do pai do diretório e do diretório /boot
+5. Copy HTML files: Copia todos os arquivos .html do diretório atual para o diretório pai, copiando os inexistente e os mais recentes
